@@ -1,9 +1,9 @@
 # HACKATHON PROJECT
 
-![GitHub contributors](https://img.shields.io/github/contributors/)
-![GitHub last commit](https://img.shields.io/github/last-commit/)
-![GitHub language count](https://img.shields.io/github/languages/count/)
-![GitHub top language](https://img.shields.io/github/languages/top/)
+![GitHub contributors](https://img.shields.io/github/contributors/manni8436/hackathon)
+![GitHub last commit](https://img.shields.io/github/last-commit/manni8436/hackathon)
+![GitHub language count](https://img.shields.io/github/languages/count/manni8436/hackathon)
+![GitHub top language](https://img.shields.io/github/languages/top/manni8436/hackathon)
 
 [Here is a link to the final project]()
 
