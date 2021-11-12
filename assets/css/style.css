@@ -22,10 +22,34 @@ body {
     color: #2D2D2D;
 }
 
+/* BUTTONS */
+
+.dark-btn {
+
+}
+
+.light-btn {
+    border: 2px solid #FFBAE4;
+    border-radius: 4px;
+    color: #2D2D2D;
+    padding: 3px 8px;
+    margin: 2px;
+    transition: 0.5s;
+}
+
+.light-btn:hover{
+    background-color: #BE5E97;
+    border: 2px solid #BE5E97;
+    color: #FFF;
+    text-decoration: none;
+}
+
 /* NAVBAR */
 
 nav {
     background-color: rgba(0, 0, 0, 0.2);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .navbar-brand {
@@ -82,4 +106,17 @@ nav {
 .box-blue {
     background-color: #9EDDDF;
     margin: 15px 0;
+}
+
+.image-break {
+    width: 100%;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #FFBAE4;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-top: 10px;
 }
