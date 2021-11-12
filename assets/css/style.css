@@ -48,6 +48,8 @@ body {
 
 nav {
     background-color: rgba(0, 0, 0, 0.2);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .navbar-brand {
@@ -107,5 +109,14 @@ nav {
 }
 
 .image-break {
-    width: 100vw;
+    width: 100%;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #FFBAE4;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-top: 10px;
 }
