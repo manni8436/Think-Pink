@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+
+/* COLOUR PALLETTE
+DARK PINK = #BE5E97
+MID PINK = #E485BD
+LIGHT PINK = #FFBAE4
+
+ACCENT BLUE = #9EDDDF
+
+TEXT GREY = #2D2D2D
+
+*/
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Laila', sans-serif;
+    color: #2D2D2D;
+}
+
+/* NAVBAR */
+
+nav {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand {
+    font-family: 'Alice', sans-serif;
+}
+
+/* INDEX HERO SECTION */
+
+.welcome-container {
+    height: 100vh;
+    position: relative;
+    background: url('../images/wit-hero-banner.webp') no-repeat bottom right;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    text-align: end;
+}
+
+.welcome-text {
+    margin-right: 10vw;
+}
+
+.welcome-text h1 {
+    font-family: 'Alice', sans-serif;
+}
