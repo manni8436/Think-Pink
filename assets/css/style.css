@@ -32,12 +32,12 @@ nav {
     font-family: 'Alice', sans-serif;
 }
 
-/* INDEX HERO SECTION */
+/* HOME HERO SECTION */
 
 .welcome-container {
     height: 100vh;
     position: relative;
-    background: url('../images/wit-hero-banner.webp') no-repeat bottom right;
+    background: url('../images/wit-hero-banner.webp') no-repeat bottom left;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -47,8 +47,39 @@ nav {
 
 .welcome-text {
     margin-right: 10vw;
+    color: #FFF;
 }
 
 .welcome-text h1 {
     font-family: 'Alice', sans-serif;
+}
+
+/* HOME STATS BOX */
+
+.outer-box {
+    background-color: #BE5E97;
+    border-radius: 15px;
+    padding: 15px 0;
+    margin: 5px;
+    align-items: center;
+}
+
+.inner-box {
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.inner-box span {
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+.box-pink {
+    background-color: #FFBAE4;
+}
+
+.box-blue {
+    background-color: #9EDDDF;
+    margin: 15px 0;
 }
