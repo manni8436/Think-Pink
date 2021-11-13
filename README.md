@@ -58,7 +58,7 @@
 
 ## WIREFRAMES
 
-[Here are my wireframes for desktop, mobile and tablet for this project](assets/docs/WIT-Hackathon-wireframes.pdf)
+[Here are my wireframes for desktop, mobile and tablet for this project](assets/wireframes/WIT-Hackathon-wireframes.pdf)
 
 ## FEATURES
 
