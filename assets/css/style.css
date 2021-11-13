@@ -28,13 +28,14 @@ body {
 
 }
 
-.light-btn {
+.light-btn, .light-btn:focus {
     border: 2px solid #FFBAE4;
     border-radius: 4px;
     color: #2D2D2D;
     padding: 3px 8px;
     margin: 2px;
     transition: 0.5s;
+    outline: none;
 }
 
 .light-btn:hover{
@@ -166,4 +167,21 @@ footer {
 
 .carousel-indicators {
     bottom: -45px;
+}
+
+/* SURVIVOR STORY IMAGE */
+
+.survivor-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.story-hr {
+    position: relative;
+    border-top: 5px solid #FFBAE4;
+    width: 60%;
+    bottom: 35px;
+    z-index: -1;
 }
