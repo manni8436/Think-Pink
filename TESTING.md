@@ -14,48 +14,48 @@
 # **Testing**
 
 ### **Navigation** 
-    - all pages - on desktop site
+    - page - on desktop site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :----: |
+| (Add Site Name Here) Button    | To redirect to home page| Click the (Add Site Name Here) button | Button navigates to home | Pass |
 | Home button    | To redirect to home page| Click the home button | Button navigates to home | Pass |
-| Nav links | Clicking Recipes takes user to Recipes page | Click Recipes | Redirected to Recipes page | Pass |
-| | Clicking Profile takes user to their profile page | Click Profile | Redirected to Profile Page | Pass |
-| | Clicking Add Recipes takes user to Add Recipes page | Click Add Recipes | Redirected to Add Recipes page | Pass |
-| | Clicking Edit Recipes takes user to Edit Recipes page | Click Edit Recipes | Redirected to Edit Recipes page | Pass |
-| | Click Favourites takes user to Favourites | Click Favourites | Redirected to Favourites page | Pass |
-| | Click Logout logs out the user | Click Logout | User logged out and redirected to login Page| Pass |
+| Nav links | Clicking Stories takes user to Stories page | Click Stories | Redirected to Stories page | Pass |
+| | Clicking Technology takes user to the Technology page | Click Technology | Redirected to Technology Page | Pass |
+| | Clicking Resources takes user to Resources page | Click Resources | Redirected to Resources page | Pass |
+| | Click Map takes user to Map page | Click Map | Redirected to Map page | Pass |
 
 ### **Navigation**
-    - all pages - on mobile site
+    - page - on mobile site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :-----:|
+| (Add Site Name Here) Button    | To redirect to home page| Click the (Add Site Name Here) button | Button navigates to home | Pass |
+| Dropdown Menu button    | To display navigation menu | Click the Dropdown Menu button | displays navigation menu | Pass |
 | Home button    | To redirect to home page| Click the home button | Button navigates to home | Pass |
-| Nav links | Clicking Recipes takes user to Recipes page | Click Recipes | Redirected to Recipes page | Pass |
-|  | Click Login redirects to log in page | Click Log In | User redirected to Log In Page | Pass |
-|  | Click Not Yet registered link redirects to Register page | Click Not Yet registered link | User redirected to Register Page | Pass |
-|  | Click Register redirects to login page | Click Register | User redirected to Register Page | Pass |
-|  | Click Already Registered link redirects to login page | Click Already Registered link | User redirected to login Page | Pass |
+| Nav links | Clicking Stories takes user to Stories page | Click Stories | Redirected to Stories page | Pass |
+| | Clicking Technology takes user to the Technology page | Click Technology | Redirected to Technology Page | Pass |
+| | Clicking Resources takes user to Resources page | Click Resources | Redirected to Resources page | Pass |
+| | Click Map takes user to Map page | Click Map | Redirected to Map page | Pass |
 
 [Back to contents](#contents)
 
 <!-- ### **Buttons**
-    - all pages - on desktop site
+    - page - on desktop site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :-----:|
 | Feedback on hover | buttons change colour when user hovers the mouse over them and Login Button on Home screen  | Hover mouse over each button | Buttons change colour when hovered over | Pass |
 
 ### **Buttons**
-    - all pages - on mobile site
+    - page - on mobile site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :-----:|
 | Feedback on hover | buttons change colour when user hovers the mouse over them and Login Button on Home screen  | Hover mouse over each button | Buttons change colour when hovered over | Pass | -->
 
 ### **Home Page**
-    - all pages - on desktop site
+    - page - on desktop site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- |:----:|
@@ -65,7 +65,7 @@
 |  | Stop when hovered over  | hover mouse over to see if it stops  | carousel stops on mouse hover | Pass |
 
 ### **Home Page**
-    - all pages - on mobile site
+    - page - on mobile site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- |:----:|
@@ -77,7 +77,7 @@
 [Back to contents](#contents)
 
 ### **Stories Page**
-    - all pages - on desktop site
+    - page - on desktop site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :-----:|
@@ -86,7 +86,7 @@
 | | Register with new user and password to be logged in and redirected to Recipes page | username, password and click register | New account registered and Recipes page shown | Pass |
 
 ### **Stories Page**
-    - all pages - on mobile site
+    - page - on mobile site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-----------------| ----------|  ---------- | :----: |
@@ -97,7 +97,7 @@
 [Back to contents](#contents)
 
 ### **Technology Page**
-    - all pages - on desktop site
+    - page - on desktop site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :----:|
@@ -105,7 +105,7 @@
 |  | If no recipes saved as a favourite there is a prompt to add one with link to all recipes | Click on Favourites nav link, click icon to remove from favourites, see message prompt to click to look at recipes | No favourites added so message is displayed and clicking the link leads to the reviews page | Pass |
 
 ### **Technology Page**
-    - all pages - on mobile site
+    - page - on mobile site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :----:|
@@ -115,7 +115,7 @@
 [Back to contents](#contents)
 
 ### **Resources Page**
-    - all pages - on desktop site
+    - page - on desktop site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :----:|
@@ -123,7 +123,7 @@
 |  | If no recipes saved as a favourite there is a prompt to add one with link to all recipes | Click on Favourites nav link, click icon to remove from favourites, see message prompt to click to look at recipes | No favourites added so message is displayed and clicking the link leads to the reviews page | Pass |
 
 ### **Resources Page**
-    - all pages - on mobile site
+    - page - on mobile site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :----:|
@@ -133,19 +133,23 @@
 [Back to contents](#contents)
 
 ### **Map Page**
-    - all pages - on desktop site
+    - page - on desktop site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :----:|
-| Favourites | Favourites can be viewed and removed | Click on Favourites nav link, click icon to remove from favourites | Upon clicking remove from favourites the recipe is removed from favourites | Pass |
-|  | If no recipes saved as a favourite there is a prompt to add one with link to all recipes | Click on Favourites nav link, click icon to remove from favourites, see message prompt to click to look at recipes | No favourites added so message is displayed and clicking the link leads to the reviews page | Pass |
+| ARC Cancer Support Centre link A | ARC Cancer Support Centre link A opens in a new page when clicked | Click on ARC Cancer Support Centre link A | Upon clicking ARC Cancer Support Centre link A, a new page opens | Pass 
+| ARC Cancer Support Centre link B | ARC Cancer Support Centre link B opens in a new page when clicked | Click on ARC Cancer Support Centre link B | Upon clicking ARC Cancer Support Centre link B, a new page opens | Pass |
+| Irish Cancer Society Daffodil Centre link C | Irish Cancer Society Daffodil Centre link C opens in a new page when clicked | Irish Cancer Society Daffodil Centre link C | Upon clicking Irish Cancer Society Daffodil Centre link C, a new page opens | Pass |
+| Tallaght Cancer Support Group link D | Tallaght Cancer Support Group link D opens in a new page when clicked |Tallaght Cancer Support Group link D | Upon clicking Tallaght Cancer Support Group link D, a new page opens | Pass |
 
 ### **Map Page**
     - all pages - on mobile site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :----:|
-| Favourites | Favourites can be viewed and removed | Click on Favourites nav link, click icon to remove from favourites | Upon clicking remove from favourites the recipe is removed from favourites | Pass |
-|  | If no recipes saved as a favourite there is a prompt to add one with link to all recipes | Click on Favourites nav link, click icon to remove from favourites, see message prompt to click to look at recipes | No favourites added so message is displayed and clicking the link leads to the reviews page | Pass |
+| ARC Cancer Support Centre link A | ARC Cancer Support Centre link A opens in a new page when clicked | Click on ARC Cancer Support Centre link A | Upon clicking ARC Cancer Support Centre link A, a new page opens | Pass 
+| ARC Cancer Support Centre link B | ARC Cancer Support Centre link B opens in a new page when clicked | Click on ARC Cancer Support Centre link B | Upon clicking ARC Cancer Support Centre link B, a new page opens | Pass |
+| Irish Cancer Society Daffodil Centre link C | Irish Cancer Society Daffodil Centre link C opens in a new page when clicked | Irish Cancer Society Daffodil Centre link C | Upon clicking Irish Cancer Society Daffodil Centre link C, a new page opens | Pass |
+| Tallaght Cancer Support Group link D | Tallaght Cancer Support Group link D opens in a new page when clicked |Tallaght Cancer Support Group link D | Upon clicking Tallaght Cancer Support Group link D, a new page opens | Pass |
 
 [Back to contents](#contents)
