@@ -3,7 +3,7 @@
 
 
 /* COLOUR PALLETTE
-DARK PINK = #BE5E97
+DARK PINK = #E951AC
 MID PINK = #E485BD
 LIGHT PINK = #FFBAE4
 
@@ -38,8 +38,8 @@ body {
 }
 
 .light-btn:hover{
-    background-color: #BE5E97;
-    border: 2px solid #BE5E97;
+    background-color: #E951AC;
+    border: 2px solid #E951AC;
     color: #FFF;
     text-decoration: none;
 }
@@ -81,7 +81,7 @@ nav {
 /* HOME STATS BOX */
 
 .outer-box {
-    background-color: #BE5E97;
+    background-color: #E951AC;
     border-radius: 15px;
     padding: 15px 0;
     margin: 5px;
