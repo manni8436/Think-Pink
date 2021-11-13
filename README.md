@@ -8,6 +8,8 @@
 [Here is a link to the final project](https://manni8436.github.io/hackathon/)
 
 ## INITIAL DESIGN
+* The initial idea behind this project is to create a website an up and coming technologies on early breast cancer screening, while raising breast cancer awareness. Target audience
+is anyone who wants to get information regarding breast cancer and new ways for early diagnosis and possible prevention.
 
 ## FINAL DESIGN
 
@@ -43,18 +45,33 @@
 * [Acknowledgements](#ACKNOWLEDGEMENTS)    
 
 ## USER EXPERIENCE
+The structure of the site was designed to be simple and easy to use. It has a good balance of images and content, so it does not overload the user, while giving the user
+enough information on possible techonologies on how to detect possible breast cancer, also some success stories on people in tech today who have survived cancer.
+
+* The website is for the following user types:
+    * Users with no previous experience about breast cancer, and would like more information.
+    * Users with basic experience about breast cancer, who wish to get information on new prescreening technologies.
 
 ## USER STORIES
 
 #### CLIENT GOALS
+* The site needs to be easily accessible.
+* The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and mobile.
+* Manoeuvering around the site should be simple and straightforward.
+* The site should be informative and all the text should be easy to read.
+* The images should be clear and not stretched or squashed.
 
 #### FIRST TIME VISITORS
+* I want the site to be easy to understand how to navigate throughout the site.
+* I want the content to be easily read and understandable.
+* I want images to be clearly visible.
 
 #### RETURNING USER
 
 ## DESIGN
 
 ### COLOR SCHEME
+My overall colour scheme used throughout the site was the variety of colours in the image below.
 
 ## WIREFRAMES
 
