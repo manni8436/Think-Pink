@@ -8,8 +8,7 @@
 [Here is a link to the final project](https://manni8436.github.io/hackathon/)
 
 ## INITIAL DESIGN
-* The initial idea behind this project is to create a website an up and coming technologies on early breast cancer screening, while raising breast cancer awareness. Target audience
-is anyone who wants to get information regarding breast cancer and new ways for early diagnosis and possible prevention.
+* The initial idea behind this project is to create a website an up and coming technologies on early breast cancer screening, while raising breast cancer awareness. Target audience is anyone who wants to get information regarding breast cancer and new ways for early diagnosis and possible prevention.
 
 ## FINAL DESIGN
 
