@@ -72,6 +72,8 @@ enough information on possible techonologies on how to detect possible breast ca
 ### COLOR SCHEME
 My overall colour scheme used throughout the site was the variety of colours in the image below.
 
+[Colour Scheme]()
+
 ## WIREFRAMES
 
 [Here are my wireframes for desktop, mobile and tablet for this project](assets/wireframes/WIT-Hackathon-wireframes.pdf)
