@@ -185,3 +185,94 @@ footer {
     bottom: 35px;
     z-index: -1;
 }
+
+/* SYMPTOMS PAGE */
+#symptoms-container {
+    margin: 100px auto;
+}
+
+#symptoms-title {
+    text-align: center;
+    margin: 20px;
+}
+
+#symptoms-table {
+    display: table !important;
+    border-collapse: separate;
+    height: 600px;
+    width: 70%;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px auto;
+    border: 4px solid #E951AC;
+    background-color:  #fdeef7;    
+}
+
+#symptoms-table .darker {
+    background-color:  #FFBAE4;
+}
+
+#symptoms-table td {
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+.signs {
+    position: relative;
+    cursor: pointer;
+}
+
+.signs .tooltiptext {
+    display: none;
+    width: 360px;
+    background-color: #E951AC;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;  
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -100px;
+    z-index: 1;
+}
+  
+  .signs:hover .tooltiptext {
+    display: block !important;
+}
+
+#symptoms-img {
+    text-align: center;
+}
+
+#self-exam {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+#dyk {
+    width: 80%;
+    margin: 30px auto 0px;
+    text-align: center;
+}
+
+#dyk p {
+    font-size: large;
+}
+
+/* media queries for symptoms page */
+
+@media screen and (max-width: 600px) {
+    #self-exam {
+        max-width: 350px;
+        margin: 20px auto;
+    }
+
+    #symptoms-table {
+        width: 90%;
+    }
+
+    .signs .tooltiptext {
+        width: 200px;
+    }
+}
