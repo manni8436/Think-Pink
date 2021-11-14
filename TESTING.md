@@ -74,6 +74,20 @@
 | Quotes Carousel - on desktop | Play automatically | View carousel to make sure it moves automatically | carousel moves automatically | Pass |
 |  | Stop when hovered over  | hover mouse over to see if it stops  | carousel stops on mouse hover | Pass |
 
+<!-- ### **Buttons on home page**
+    - page - on desktop site
+
+| Feature        | Expected           | Testing  | Result | Pass/Fail |
+| ------------- |-------------| -----|  ---------- | :-----:|
+| Feedback on hover | buttons change colour when user hovers the mouse over them and Login Button on Home screen  | Hover mouse over each button | Buttons change colour when hovered over | Pass |
+
+### **Buttons on home page**
+    - page - on mobile site
+
+| Feature        | Expected           | Testing  | Result | Pass/Fail |
+| ------------- |-------------| -----|  ---------- | :-----:|
+| Feedback on hover | buttons change colour when user hovers the mouse over them and Login Button on Home screen  | Hover mouse over each button | Buttons change colour when hovered over | Pass | -->
+
 [Back to contents](#contents)
 
 ### **Stories Page**
@@ -94,6 +108,22 @@
 |   | Incorrect username/password combination | Error showing "incorrect username/password" | Flash message displays | Pass |
 | Link to Register | Redirect to Register page | Click link to register | Redirected to Register page | Pass |
 
+### **Buttons on stories page**
+    - page - on desktop site
+
+| Feature        | Expected           | Testing  | Result | Pass/Fail |
+| ------------- |-------------| -----|  ---------- | :-----:|
+| Feedback on hover | buttons change colour when user hovers the mouse over Read More Button on stories page  | Hover mouse over Read More button | Buttons change colour when hovered over | Pass |
+| Clicking on Read More Button | When Read More button clicked the section dropsdown to extend and show more content | Click on Read More button | Clicking on Read More button exposes dropdown and shows more content | Pass |
+
+### **Buttons on stories page**
+    - page - on mobile site
+
+| Feature        | Expected           | Testing  | Result | Pass/Fail |
+| ------------- |-------------| -----|  ---------- | :-----:|
+| Feedback on hover | buttons change colour when user hovers the mouse over Read More Button on stories page  | Hover mouse over Read More button | Buttons change colour when hovered over | Pass |
+| Clicking on Read More Button | When Read More button clicked the section dropsdown to extend and show more content | Click on Read More button | Clicking on Read More button exposes dropdown and shows more content | Pass |
+
 [Back to contents](#contents)
 
 ### **Technology Page**
@@ -111,6 +141,20 @@
 | ------------- |-------------| -----|  ---------- | :----:|
 | Favourites | Favourites can be viewed and removed | Click on Favourites nav link, click icon to remove from favourites | Upon clicking remove from favourites the recipe is removed from favourites | Pass |
 |  | If no recipes saved as a favourite there is a prompt to add one with link to all recipes | Click on Favourites nav link, click icon to remove from favourites, see message prompt to click to look at recipes | No favourites added so message is displayed and clicking the link leads to the reviews page | Pass |
+
+### **Buttons on technology page**
+    - page - on desktop site
+
+| Feature        | Expected           | Testing  | Result | Pass/Fail |
+| ------------- |-------------| -----|  ---------- | :-----:|
+| Clicking on Visit Site Button | Visit Site button clicked, a new page opens to site | Click on Visit Site button | Clicking on Visit Site button, a new page opens to site | Pass |
+
+### **Buttons on technology page**
+    - page - on mobile site
+
+| Feature        | Expected           | Testing  | Result | Pass/Fail |
+| ------------- |-------------| -----|  ---------- | :-----:|
+| Clicking on Visit Site Button | Visit Site button clicked, a new page opens to site | Click on Visit Site button | Clicking on Visit Site button, a new page opens to site | Pass |
 
 [Back to contents](#contents)
 

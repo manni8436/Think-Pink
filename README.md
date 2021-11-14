@@ -8,7 +8,7 @@
 [Here is a link to the final project](https://manni8436.github.io/hackathon/)
 
 ## INITIAL DESIGN
-* The initial idea behind this project is to create a website an up and coming technologies on early breast cancer screening, while raising breast cancer awareness. Target audience is anyone who wants to get information regarding breast cancer and new ways for early diagnosis and possible prevention.
+* The initial idea behind this project is to create a website on up and coming technologies on early breast cancer screening, while raising breast cancer awareness. Target audience is anyone who wants to get information regarding breast cancer and new ways for early diagnosis and possible prevention.
 
 ## FINAL DESIGN
 
@@ -49,7 +49,8 @@ enough information on possible techonologies on how to detect possible breast ca
 
 * The website is for the following user types:
     * Users with no previous experience about breast cancer, and would like more information.
-    * Users with basic experience about breast cancer, who wish to get information on new prescreening technologies.
+    * Users with basic experience about breast cancer.
+    * Users who wish to get information on new prescreening technologies.
 
 ## USER STORIES
 
@@ -70,15 +71,21 @@ enough information on possible techonologies on how to detect possible breast ca
 ## DESIGN
 
 ### COLOR SCHEME
-My overall colour scheme used throughout the site was the variety of colours in the image below.
 
-[Colour Scheme]()
+The overall colour scheme used throughout the site was the variety of colours in the image below.
+
+![Colour Scheme](assets/images/hackathon-colour-scheme.png)
 
 ## WIREFRAMES
 
 [Here are my wireframes for desktop, mobile and tablet for this project](assets/wireframes/WIT-Hackathon-wireframes.pdf)
 
 ## FEATURES
+
+The following features have been used in this project:
+   
+* Carousel has been used to display technologies for prescreening of breast cancer.
+* API map has been used to show different locations of support center around the country.
 
 ## SOLVED BUGS
 
