@@ -24,6 +24,10 @@ body {
 
 /* BUTTONS */
 
+.dark-btn {
+
+}
+
 .light-btn, .light-btn:focus {
     border: 2px solid #FFBAE4;
     border-radius: 4px;
@@ -43,14 +47,8 @@ body {
 
 /* NAVBAR */
 
-.home-nav {
+nav {
     background-color: rgba(0, 0, 0, 0.2);
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-}
-
-.pink-nav {
-    background-color: #E951AC;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -70,8 +68,6 @@ body {
     align-items: center;
     justify-content: end;
     text-align: end;
-    top: -56px;
-    z-index: -1;
 }
 
 .welcome-text {
@@ -150,12 +146,11 @@ footer li {
 
 .card-row {
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
 }
 
 .card {
-    height: 320px;
+    height: 360px;
     width: 220px;
     border: 4px solid #E951AC;
     border-radius: 8px;
@@ -165,16 +160,6 @@ footer li {
 
 .card img {
     object-fit: cover;
-    height: 80px;
-    width: 120px;
-    margin: 0 auto;
-}
-
-#haven {
-    height: 100px;
-}
-
-#arc, #maggies {
     width: 180px;
 }
 
@@ -187,12 +172,13 @@ footer li {
 /* MAP */
 #map-container {
     display: flex;
+    flex-wrap: wrap;
     margin: 20px auto;
     text-align: center;
 }
 
 #map {
-    height: 600px;
+    height: 500px;
     width:  80%;
     margin: 0 auto;
 }
@@ -227,8 +213,8 @@ footer li {
 /* SURVIVOR STORY IMAGE */
 
 .survivor-img {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     overflow: hidden;
 }
@@ -242,6 +228,9 @@ footer li {
 }
 
 /* SYMPTOMS PAGE */
+#symptoms-container {
+    margin: 100px auto;
+}
 
 #symptoms-title {
     text-align: center;
@@ -285,7 +274,8 @@ footer li {
     position: absolute;
     top: 100%;
     left: 50%;
-    margin-left: -100px;
+    margin-left: 200px;
+    margin-top: -50px;
     z-index: 1;
 }
   
@@ -313,7 +303,7 @@ footer li {
 }
 
 
-/* MEDIA QUERIES FOR SYMPTOMS AND RESOURCES PAGES */
+/* MEDIA QUERIES FOR SYMPTOMS PAGE */
 
 @media screen and (max-width: 600px) {
     #self-exam {
@@ -327,31 +317,7 @@ footer li {
 
     .signs .tooltiptext {
         width: 200px;
+        margin-left: -50px;
+        margin-top: 0px;
     }
-
-    #map {
-        height: 250px;
-        margin: 0 auto;
-    }
-}
-
-/* GENERAL MEDIA QUERIES */
-
-@media screen and (min-width: 576px) {
-    .survivor-img {
-        height: 300px;
-        width: 300px;
-    }
- }
-
-@media screen and (min-width: 768px) {
-    
-}
-
-@media screen and (min-width: 992px) {
-
-}
-
-@media screen and (min-width: 1200px) {
-    
 }
