@@ -51,9 +51,6 @@
                     <li class="nav-item active">
                         <a class="nav-link" href="resources.html">Resources <span class="sr-only">(current)</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="map.html">Map</a>
-                    </li>
                 </ul>
             </div>
         </nav>
@@ -78,11 +75,15 @@
                 <!-- CARD  -->
                 <div class="col-md-6 col-lg-4 col-xl-3 mb-5 card-container">
                     <div class="card">
-                        <img src="assets/images/resource-images/irish-cancer-society.png">
+                        <img src="assets/images/resource-images/irish-cancer-society.png" height="80px">
                         <h3>Irish Cancer Society</h3>
-                        <p class="card-text">This will be the filler text</p>
+                        <p class="card-text">Daffodil Centre<br/>
+                            St. James's Hospital<br/>
+                            Dublin<br/>
+                            <i class="fas fa-phone"></i> 1800 200 700<br/>
+                            Map ref: B</p>
                         <div class="text-center">
-                            <a href="" class="light-btn">Visit Site</a>
+                            <a href="https://www.cancer.ie/" target="_blank" class="light-btn">Visit Site</a>
                         </div>
                     </div>
                 </div>
@@ -106,9 +107,12 @@
                     <div class="card">
                         <img src="assets/images/resource-images/arc-logo.jpg">
                         <h3>ARC</h3>
-                        <p class="card-text">This will be the filler text</p>
+                        <p class="card-text">65 Eccles St<br/>
+                            Dublin<br/>
+                            <i class="fas fa-phone"></i> +353 1 830 7333<br/>
+                            Map Ref: A</p>
                         <div class="text-center">
-                            <a href="https://www.arccancersupport.ie/services-for-you/family-loved-ones/" class="light-btn">Visit Site</a>
+                            <a href="https://www.arccancersupport.ie/services-for-you/family-loved-ones/" class="light-btn" target="_blank">Visit Site</a>
                         </div>
                     </div>
                 </div>
@@ -117,17 +121,26 @@
             </div>
         </div> 
     </div>
-
-
+    
+    <!--MAP-->
+    <div id="map-container">
+        <div id="map">
+        </div>
+    </div>
+        
     <!-- FOOTER -->
     <footer class="mt-5">
         <div class="row mx-auto px-0">
             <h3>Footer</h3>
         </div>
-
     </footer>
+
+    <!-- SCRIPTS FOR BOOTSTRAP, FONT AWESOME AND GOOGLE MAPS API -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0wk5q2hgWmcmoKlvld_A2-CeWKVMSibs&callback=initMap"></script>
+    <script src="assets/js/map.js"></script>
+    <script src="https://kit.fontawesome.com/5f4fa16565.js" crossorigin="anonymous"></script>
 </body>
 </html>
