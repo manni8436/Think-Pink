@@ -24,10 +24,6 @@ body {
 
 /* BUTTONS */
 
-.dark-btn {
-
-}
-
 .light-btn, .light-btn:focus {
     border: 2px solid #FFBAE4;
     border-radius: 4px;
@@ -47,8 +43,14 @@ body {
 
 /* NAVBAR */
 
-nav {
+.home-nav {
     background-color: rgba(0, 0, 0, 0.2);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.pink-nav {
+    background-color: #E951AC;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -68,6 +70,8 @@ nav {
     align-items: center;
     justify-content: end;
     text-align: end;
+    top: -56px;
+    z-index: -1;
 }
 
 .welcome-text {
@@ -144,6 +148,12 @@ footer li {
 
 /*  RESOURCE CARD */
 
+.card-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .card {
     height: 320px;
     width: 220px;
@@ -155,6 +165,16 @@ footer li {
 
 .card img {
     object-fit: cover;
+    height: 80px;
+    width: 120px;
+    margin: 0 auto;
+}
+
+#haven {
+    height: 100px;
+}
+
+#arc, #maggies {
     width: 180px;
 }
 
@@ -167,13 +187,12 @@ footer li {
 /* MAP */
 #map-container {
     display: flex;
-    flex-wrap: wrap;
     margin: 20px auto;
     text-align: center;
 }
 
 #map {
-    height: 500px;
+    height: 600px;
     width:  80%;
     margin: 0 auto;
 }
@@ -223,9 +242,6 @@ footer li {
 }
 
 /* SYMPTOMS PAGE */
-#symptoms-container {
-    margin: 100px auto;
-}
 
 #symptoms-title {
     text-align: center;
@@ -297,7 +313,7 @@ footer li {
 }
 
 
-/* MEDIA QUERIES FOR SYMPTOMS PAGE */
+/* MEDIA QUERIES FOR SYMPTOMS AND RESOURCES PAGES */
 
 @media screen and (max-width: 600px) {
     #self-exam {
@@ -311,6 +327,11 @@ footer li {
 
     .signs .tooltiptext {
         width: 200px;
+    }
+
+    #map {
+        height: 250px;
+        margin: 0 auto;
     }
 }
 
