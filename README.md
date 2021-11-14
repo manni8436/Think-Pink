@@ -5,7 +5,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/manni8436/Think-Pink)
 ![GitHub top language](https://img.shields.io/github/languages/top/manni8436/Think-Pink)
 
-[Here is a link to the final project](manni8436.github.io/Think-Pink)
+[Here is a link to the final project](https://manni8436.github.io/Think-Pink/)
 
 ## INITIAL DESIGN
 * The initial idea behind this project is to create a website on up and coming technologies on early breast cancer screening, while raising breast cancer awareness. Target audience is anyone who wants to get information regarding breast cancer and new ways for early diagnosis and possible prevention.
