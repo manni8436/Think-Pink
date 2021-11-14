@@ -12,7 +12,7 @@
 
 ## FINAL DESIGN
 
-![Final project image home page]()
+![Final project image home page](assets/images/amiresponsive.png)
 
 ## CONTENTS
 
