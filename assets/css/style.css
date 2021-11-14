@@ -208,8 +208,8 @@ footer li {
 /* SURVIVOR STORY IMAGE */
 
 .survivor-img {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
     overflow: hidden;
 }
@@ -312,4 +312,25 @@ footer li {
     .signs .tooltiptext {
         width: 200px;
     }
+}
+
+/* GENERAL MEDIA QUERIES */
+
+@media screen and (min-width: 576px) {
+    .survivor-img {
+        height: 300px;
+        width: 300px;
+    }
+ }
+
+@media screen and (min-width: 768px) {
+    
+}
+
+@media screen and (min-width: 992px) {
+
+}
+
+@media screen and (min-width: 1200px) {
+    
 }
