@@ -8,4 +8,8 @@ $(document).ready(function(){
     $("#show-more2").click(function(){
       $("#hidden-text2").slideToggle();
     });
+    $("#hidden-text3").hide();
+    $("#show-more3").click(function(){
+      $("#hidden-text3").slideToggle();
+    });
   });
