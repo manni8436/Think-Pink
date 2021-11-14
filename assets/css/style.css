@@ -122,6 +122,26 @@ footer {
     padding-top: 10px;
 }
 
+.team-github-links {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.team-github-links a {
+    text-decoration: none;
+    color: black;
+}
+
+.team-github-links a:hover {
+    text-decoration: underline;
+}
+
+footer li {
+    display: inline-block;
+    padding: 5px;
+}
+
 /*  RESOURCE CARD */
 
 .card {
