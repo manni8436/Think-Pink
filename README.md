@@ -171,6 +171,25 @@ If you need to make a local clone:
 
 ### CODE VALIDATORS
 
+The W3C Markup Validator and W3C CSS Validator was used to validate my project to make sure there were no errors within the site.
+
+* W3C HTML Validator Results
+    * [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Findex.html)
+    * [Early Signs Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fsymptoms.html)
+    * [Stories Page]()
+    * [Technology Page]()
+    * [Resources Page]()
+* W3C CSS Validator Results
+    * [Home Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    * [Early Signs Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fsymptoms.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    * [Stories Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fstories.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    * [Technology Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Ftechnology.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    * [Resources Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fresources.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+* JavaScript Validator
+    * ![JSHint 1](assets/images/JS-validator.png)
+    * ![JSHint 2](assets/images/map-JS-validator.png)
+
 ### FULL TESTING
 
 ### LIGHTHOUSE
