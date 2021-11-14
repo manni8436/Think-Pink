@@ -148,6 +148,12 @@ footer li {
 
 /*  RESOURCE CARD */
 
+.card-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .card {
     height: 320px;
     width: 220px;
@@ -159,6 +165,16 @@ footer li {
 
 .card img {
     object-fit: cover;
+    height: 80px;
+    width: 120px;
+    margin: 0 auto;
+}
+
+#haven {
+    height: 100px;
+}
+
+#arc, #maggies {
     width: 180px;
 }
 
@@ -171,13 +187,12 @@ footer li {
 /* MAP */
 #map-container {
     display: flex;
-    flex-wrap: wrap;
     margin: 20px auto;
     text-align: center;
 }
 
 #map {
-    height: 500px;
+    height: 600px;
     width:  80%;
     margin: 0 auto;
 }
@@ -298,7 +313,7 @@ footer li {
 }
 
 
-/* MEDIA QUERIES FOR SYMPTOMS PAGE */
+/* MEDIA QUERIES FOR SYMPTOMS AND RESOURCES PAGES */
 
 @media screen and (max-width: 600px) {
     #self-exam {
@@ -312,6 +327,11 @@ footer li {
 
     .signs .tooltiptext {
         width: 200px;
+    }
+
+    #map {
+        height: 250px;
+        margin: 0 auto;
     }
 }
 
