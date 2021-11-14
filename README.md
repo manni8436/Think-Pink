@@ -176,8 +176,8 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 * W3C HTML Validator Results
     * [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Findex.html)
     * [Early Signs Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fsymptoms.html)
-    * [Stories Page]()
-    * [Technology Page]()
+    * [Stories Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fstories.html)
+    * [Technology Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Ftechnology.html)
     * [Resources Page]()
 * W3C CSS Validator Results
     * [Home Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -191,6 +191,8 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
     * ![JSHint 2](assets/images/map-JS-validator.png)
 
 ### FULL TESTING
+
+[Click Here](TESTING.md) to view the full testing steps that were completed on every device and browser.
 
 ### LIGHTHOUSE
 
