@@ -4,7 +4,7 @@
 
 * [**Testing**](#testing)
   * [**Navigation**](#navigation)
-  <!-- * [**Buttons**](#buttons) -->
+  * [**Buttons**](#buttons)
   * [**Home Page**](#home-page)
   * [**Stories Page**](#stories-page)
   * [**Technology Page**](#technology-page)
@@ -40,53 +40,26 @@
 
 [Back to contents](#contents)
 
-<!-- ### **Buttons**
+### **Buttons on home page**
     - page - on desktop site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :-----:|
-| Feedback on hover | buttons change colour when user hovers the mouse over them and Login Button on Home screen  | Hover mouse over each button | Buttons change colour when hovered over | Pass |
+| Feedback on hover | buttons change colour when user hovers the mouse over Read Stories Button in Survivor Stories section on home page  | Hover mouse over Read Stories button | Buttons change colour when hovered over | Pass |
+| Feedback on hover | buttons change colour when user hovers the mouse over Learn More Button in Survivor Stories section on home page  | Hover mouse over Learn More button | Buttons change colour when hovered over | Pass |
+| Clicking on Read Stories Button | When Read Stories button clicked in Survivor Stories section on home page, page redirects to Stories page | Click on Read Stories button | Clicking on Read Stories button in Survivor Stories section on home page, page redirects to Stories page | Pass |
+| Clicking on Learn More Button | When Learn More button clicked in Survivor Stories section on home page, page redirects to Technology page | Click on Learn More button | Clicking on Learn More button in Survivor Stories section on home page, page redirects to Technology page | Pass |
 
-### **Buttons**
-    - page - on mobile site
-
-| Feature        | Expected           | Testing  | Result | Pass/Fail |
-| ------------- |-------------| -----|  ---------- | :-----:|
-| Feedback on hover | buttons change colour when user hovers the mouse over them and Login Button on Home screen  | Hover mouse over each button | Buttons change colour when hovered over | Pass | -->
-
-### **Home Page**
-    - page - on desktop site
-
-| Feature        | Expected           | Testing  | Result | Pass/Fail |
-| ------------- |-------------| -----|  ---------- |:----:|
-| Card 'Login' button | Clicking "Login" button takes users to Login page | Click "Login" button | User redirected to Login page | Pass |
-| Card 'See All Recipes' button | Clicking "See All Recipes" button takes users to Recipes page | Click "See All Recipes" button | User redirected to Recipes page | Pass |
-| Quotes Carousel - on desktop | Play automatically | View carousel to make sure it moves automatically | carousel moves automatically | Pass |
-|  | Stop when hovered over  | hover mouse over to see if it stops  | carousel stops on mouse hover | Pass |
-
-### **Home Page**
-    - page - on mobile site
-
-| Feature        | Expected           | Testing  | Result | Pass/Fail |
-| ------------- |-------------| -----|  ---------- |:----:|
-| Card 'Login' button | Clicking "Login" button takes users to Login page | Click "Login" button | User redirected to Login page | Pass |
-| Card 'See All Recipes' button | Clicking "See All Recipes" button takes users to Recipes page | Click "See All Recipes" button | User redirected to Recipes page | Pass |
-| Quotes Carousel - on desktop | Play automatically | View carousel to make sure it moves automatically | carousel moves automatically | Pass |
-|  | Stop when hovered over  | hover mouse over to see if it stops  | carousel stops on mouse hover | Pass |
-
-<!-- ### **Buttons on home page**
-    - page - on desktop site
-
-| Feature        | Expected           | Testing  | Result | Pass/Fail |
-| ------------- |-------------| -----|  ---------- | :-----:|
-| Feedback on hover | buttons change colour when user hovers the mouse over them and Login Button on Home screen  | Hover mouse over each button | Buttons change colour when hovered over | Pass |
 
 ### **Buttons on home page**
     - page - on mobile site
 
 | Feature        | Expected           | Testing  | Result | Pass/Fail |
 | ------------- |-------------| -----|  ---------- | :-----:|
-| Feedback on hover | buttons change colour when user hovers the mouse over them and Login Button on Home screen  | Hover mouse over each button | Buttons change colour when hovered over | Pass | -->
+| Feedback on hover | buttons change colour when user hovers the mouse over Read Stories Button in Survivor Stories section on home page  | Hover mouse over Read Stories button | Buttons change colour when hovered over | Pass |
+| Feedback on hover | buttons change colour when user hovers the mouse over Learn More Button in Survivor Stories section on home page  | Hover mouse over Learn More button | Buttons change colour when hovered over | Pass |
+| Clicking on Read Stories Button | When Read Stories button clicked in Survivor Stories section on home page, page redirects to Stories page | Click on Read Stories button | Clicking on Read Stories button in Survivor Stories section on home page, page redirects to Stories page | Pass |
+| Clicking on Learn More Button | When Learn More button clicked in Survivor Stories section on home page, page redirects to Technology page | Click on Learn More button | Clicking on Learn More button in Survivor Stories section on home page, page redirects to Technology page | Pass |
 
 [Back to contents](#contents)
 
@@ -108,6 +81,8 @@
 |   | Incorrect username/password combination | Error showing "incorrect username/password" | Flash message displays | Pass |
 | Link to Register | Redirect to Register page | Click link to register | Redirected to Register page | Pass |
 
+[Back to contents](#contents)
+
 ### **Buttons on stories page**
     - page - on desktop site
 
@@ -141,6 +116,8 @@
 | ------------- |-------------| -----|  ---------- | :----:|
 | Favourites | Favourites can be viewed and removed | Click on Favourites nav link, click icon to remove from favourites | Upon clicking remove from favourites the recipe is removed from favourites | Pass |
 |  | If no recipes saved as a favourite there is a prompt to add one with link to all recipes | Click on Favourites nav link, click icon to remove from favourites, see message prompt to click to look at recipes | No favourites added so message is displayed and clicking the link leads to the reviews page | Pass |
+
+[Back to contents](#contents)
 
 ### **Buttons on technology page**
     - page - on desktop site
