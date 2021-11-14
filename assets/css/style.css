@@ -62,15 +62,25 @@ body {
     background-size: cover;
     display: flex;
     align-items: center;
-    justify-content: end;
-    text-align: end;
+    justify-content: center;
+    text-align: center;
     top: -56px;
     z-index: -1;
 }
 
+.welcome-container::before {
+    content: "";
+    background-color: rgba(0, 0, 0, 0.2);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
 .welcome-text {
-    margin-right: 10vw;
     color: #FFF;
+    z-index: 1;
 }
 
 /* HOME STATS BOX */
@@ -335,13 +345,16 @@ footer li {
  }
 
 @media screen and (min-width: 768px) {
-    
-}
+    .welcome-container {
+        justify-content: end;
+        text-align: end;
+    }
 
-@media screen and (min-width: 992px) {
+    .welcome-text {
+        margin-right: 10vw;
+    }
 
-}
-
-@media screen and (min-width: 1200px) {
-    
+    .welcome-container::before {
+        background-color: transparent;
+    }
 }
