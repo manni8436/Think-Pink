@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Laila:wght@400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@400;500;600&display=swap');
 
 /* COLOUR PALLETTE
 DARK PINK = #E951AC
@@ -55,6 +53,10 @@ nav {
 
 .navbar-brand {
     font-family: 'Alice', sans-serif;
+.pink-nav {
+    background-color: #E951AC;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 /* HOME HERO SECTION */
@@ -73,10 +75,6 @@ nav {
 .welcome-text {
     margin-right: 10vw;
     color: #FFF;
-}
-
-.welcome-text h1 {
-    font-family: 'Alice', sans-serif;
 }
 
 /* HOME STATS BOX */
