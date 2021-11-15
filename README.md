@@ -229,7 +229,9 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 
 ![Lighthouse Score](assets\images\lighthouse-mobile-final.PNG)
 
-## CONTENT
+## CREDITS
+
+* Code for caoursel next and previous buttons taken from [here](https://forum.freecodecamp.org/t/bootstrap-carousel-controls-color/331196/2)
 
 * Homepage stats taken from [WHO](https://www.who.int/news-room/fact-sheets/detail/breast-cancer)
 
