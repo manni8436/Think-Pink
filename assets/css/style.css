@@ -18,6 +18,7 @@ html {
 body {
     font-family: 'Laila', sans-serif;
     color: #2D2D2D;
+    background-image: url(../images/background-img.png);
 }
 
 /* BUTTONS */
@@ -189,6 +190,7 @@ footer li {
     display: flex;
     margin: 20px auto;
     text-align: center;
+    margin-bottom: 60px;
 }
 
 #map {
@@ -224,6 +226,10 @@ footer li {
     bottom: -45px;
 }
 
+.spacer {
+    height: 50px;
+}
+
 /* SURVIVOR STORY IMAGE */
 
 .survivor-img {
@@ -236,7 +242,7 @@ footer li {
 .story-hr {
     position: relative;
     border-top: 5px solid #FFBAE4;
-    width: 60%;
+    width: 90%;
     bottom: 35px;
     z-index: -1;
 }
@@ -356,5 +362,9 @@ footer li {
 
     .welcome-container::before {
         background-color: transparent;
+    }
+
+    .story-hr {
+        width: 70%;
     }
 }
