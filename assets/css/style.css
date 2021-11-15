@@ -307,7 +307,8 @@ footer li {
     position: absolute;
     top: 100%;
     left: 50%;
-    margin-left: -100px;
+    margin-top: -50px;
+    margin-left: 180px;
     z-index: 1;
 }
   
@@ -337,6 +338,21 @@ footer li {
 
 /* MEDIA QUERIES FOR SYMPTOMS AND RESOURCES PAGES */
 
+@media screen and (max-width: 1200px) {
+    .signs .tooltiptext {
+        margin-left: 150px;
+        width: 300px;    
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .signs .tooltiptext {
+        width: 200px;
+        margin-left: -100px;
+    }
+}
+
 @media screen and (max-width: 600px) {
     #self-exam {
         max-width: 350px;
@@ -347,11 +363,7 @@ footer li {
         width: 90%;
     }
 
-    .signs .tooltiptext {
-        width: 200px;
-    }
-
-    #map {
+        #map {
         height: 250px;
         margin: 0 auto;
     }
