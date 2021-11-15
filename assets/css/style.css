@@ -226,6 +226,10 @@ footer li {
     bottom: -45px;
 }
 
+.spacer {
+    height: 50px;
+}
+
 /* SURVIVOR STORY IMAGE */
 
 .survivor-img {
