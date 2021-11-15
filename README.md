@@ -194,6 +194,10 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 
 ### LIGHTHOUSE
 
+#### Initial Score
+
+![Lighthouse Score](assets\images\lighthouse-desktop-01.PNG)
+
 #### Performance:
 
 * Performance was 100% so didn't need to be adjusted
@@ -201,14 +205,29 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 #### Accessibility:
 
 * Contrast on the nav bar was low
+   * Used a darker colour for the background
+   * Used solid white for all links
+   * Used underline & bold for active links
 
 #### Best Practices:
 
-* Front ended libraries included may have vulnerabilities
+* "Front ended libraries included may have vulnerabilities"
+   * Bootstrap is an important part of making the site responsive so it cannot be removed 
 
 #### SEO:
 
 * Non decscriptive button name
+   * Updated button/link names
+
+### Final Lighhouse Scores
+
+* Desktop
+
+![Lighthouse Score](assets\images\lighthouse-desktop-final.PNG)
+
+* Mobile
+
+![Lighthouse Score](assets\images\lighthouse-mobile-final.PNG)
 
 ## CONTENT
 
