@@ -176,7 +176,7 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
     * [Early Signs Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fsymptoms.html)
     * [Stories Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fstories.html)
     * [Technology Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Ftechnology.html)
-    * [Resources Page]()
+    * [Resources Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fresources.html)
 * W3C CSS Validator Results
     * [Home Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
     * [Early Signs Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fsymptoms.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
