@@ -231,8 +231,24 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 
 ## CONTENT
 
-### IMAGES
+* Homepage stats taken from [WHO](https://www.who.int/news-room/fact-sheets/detail/breast-cancer)
 
-### TEXT CONTENT
+* Survivor stories (and their images) taken from [Lee Health](https://www.leehealth.org/health-and-wellness/healthy-news-blog/cancer-care/breast-cancer-stories-of-survival-courage-and-inspiration)
 
-## ACKNOWLEDGEMENTS:
+* Technology page information & images taken from each site:
+   * [Breast Aware App](https://www.breastcancerireland.com/education-awareness/free-to-download-app/)
+   * [TNM Cancer Staging App](https://www.iaea.org/newscenter/news/embracing-mobile-and-online-technology-to-reshape-cancer-care-and-education)
+   * [Transpara (ScreenPoint Medical)](https://www.siemens-healthineers.com/perspectives/mso-ai-in-mammography.html)
+   * [Thermaiscan](https://thermaiscan.com//)
+
+* Resource information & images taken from their sites:
+
+   * [Irish Cancer Society](https://www.cancer.ie/)
+   * [Breast Cancer Now](https://breastcancernow.org/)
+   * [Breast Cancer Haven](https://www.breastcancerhaven.org.uk/)
+   * [ARC](https://www.arccancersupport.ie/services-for-you/family-loved-ones/)
+   * [Maggie's Centers](https://www.maggies.org/)
+   * [Inflammatory Breast Cancer Support](https://ibcnetworkuk.org/)
+
+* Hero image taken from [Unsplash](https://unsplash.com/photos/SJCalEw-1LM)
+* Home page banner image taken from [Unsplash](https://unsplash.com/photos/XJXWbfSo2f0)
