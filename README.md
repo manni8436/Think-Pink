@@ -61,12 +61,10 @@ enough information on possible techonologies on how to detect possible breast ca
 * The site should be informative and all the text should be easy to read.
 * The images should be clear and not stretched or squashed.
 
-#### FIRST TIME VISITORS
+#### SITE USER
 * I want the site to be easy to understand how to navigate throughout the site.
 * I want the content to be easily read and understandable.
 * I want images to be clearly visible.
-
-#### RETURNING USER
 
 ## DESIGN
 
@@ -196,17 +194,21 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 
 ### LIGHTHOUSE
 
-### DESKTOP
-
-### MOBILE
-
 #### Performance:
+
+* Performance was 100% so didn't need to be adjusted
 
 #### Accessibility:
 
+* Contrast on the nav bar was low
+
 #### Best Practices:
 
+* Front ended libraries included may have vulnerabilities
+
 #### SEO:
+
+* Non decscriptive button name
 
 ## CONTENT
 

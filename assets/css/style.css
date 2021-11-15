@@ -5,6 +5,8 @@ DARK PINK = #E951AC
 MID PINK = #E485BD
 LIGHT PINK = #FFBAE4
 
+NAV PINK = #DE1B90
+
 ACCENT BLUE = #9EDDDF
 
 TEXT GREY = #2D2D2D
@@ -42,16 +44,19 @@ body {
 
 /* NAVBAR */
 
-.home-nav {
-    background-color: rgba(0, 0, 0, 0.2);
+.pink-nav {
+    background-color: #DE1B90;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
 
-.pink-nav {
-    background-color: #E951AC;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
+.nav-link {
+    color: #FFF !important;
+}
+
+.li-active a {
+    font-weight: 600;
+    text-decoration: underline;
 }
 
 /* HOME HERO SECTION */
