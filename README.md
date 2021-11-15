@@ -45,7 +45,7 @@
 
 ## USER EXPERIENCE
 The structure of the site was designed to be simple and easy to use. It has a good balance of images and content, so it does not overload the user, while giving the user
-enough information on possible techonologies on how to detect possible breast cancer, also some success stories on people in tech today who have survived cancer.
+enough information on possible techonologies, how to detect possible breast cancer, also some success stories on people in tech today who have survived cancer.
 
 * The website is for the following user types:
     * Users with no previous experience about breast cancer, and would like more information.
@@ -56,34 +56,34 @@ enough information on possible techonologies on how to detect possible breast ca
 
 #### CLIENT GOALS
 * The site needs to be easily accessible.
-* The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and mobile.
+* The navigation menu needs to be simple to use on a range of devices, including desktops, tablets and mobiles.
 * Manoeuvering around the site should be simple and straightforward.
 * The site should be informative and all the text should be easy to read.
 * The images should be clear and not stretched or squashed.
 
 #### SITE USER
-* I want the site to be easy to understand how to navigate throughout the site.
-* I want the content to be easily read and understandable.
+* I want it to be easy to understand how to navigate throughout the site.
+* I want the content to be easily comprehensible.
 * I want images to be clearly visible.
 
 ## DESIGN
 
 ### COLOR SCHEME
 
-The overall colour scheme used throughout the site was the variety of colours in the image below.
+The overall colour scheme used throughout the site can be seen in the colour palette below.
 
 ![Colour Scheme](assets/images/hackathon-colour-scheme.png)
 
 ## WIREFRAMES
 
-[Here are my wireframes for desktop, mobile and tablet for this project](assets/wireframes/WIT-Hackathon-wireframes.pdf)
+[Here are our wireframes for desktop, mobile and tablet for this project](assets/wireframes/WIT-Hackathon-wireframes.pdf)
 
 ## FEATURES
 
 The following features have been used in this project:
    
-* Carousel has been used to display technologies for prescreening of breast cancer.
-* API map has been used to show different locations of support center around the country.
+* A Carousel has been used to display technologies for prescreening of breast cancer.
+* An API map has been used to show different locations of support center around the country.
 
 ## SOLVED BUGS
 
@@ -110,8 +110,8 @@ The following features have been used in this project:
 #### GitHub:
 [GitHub](https://github.com/) is being used to store all the code for this project after being pushed from GitPod.
 
-#### Am i Responsive:
-[Am i Responsive](http://ami.responsivedesign.is/) was used to create the image in my [Final Design](#FINAL-DESIGN) section.
+#### Am I Responsive:
+[Am I Responsive](http://ami.responsivedesign.is/) was used to create the image in our [Final Design](#FINAL-DESIGN) section.
 
 #### Balsamiq:
 [Balsamiq](https://balsamiq.com/) was used in the initial design process to make wireframes.
@@ -169,7 +169,7 @@ If you need to make a local clone:
 
 ### CODE VALIDATORS
 
-The W3C Markup Validator and W3C CSS Validator was used to validate my project to make sure there were no errors within the site.
+The W3C Markup Validator and W3C CSS Validator was used to validate our project to make sure there were no errors within the site.
 
 * W3C HTML Validator Results
     * [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Findex.html)
@@ -254,3 +254,4 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 
 * Hero image taken from [Unsplash](https://unsplash.com/photos/SJCalEw-1LM)
 * Home page banner image taken from [Unsplash](https://unsplash.com/photos/XJXWbfSo2f0)
+* Symptoms page image taken from [Unsplash](https://unsplash.com/photos/ICm-cEIFk4I)
