@@ -176,7 +176,7 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
     * [Early Signs Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fsymptoms.html)
     * [Stories Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fstories.html)
     * [Technology Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Ftechnology.html)
-    * [Resources Page]()
+    * [Resources Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fresources.html)
 * W3C CSS Validator Results
     * [Home Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
     * [Early Signs Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmanni8436.github.io%2FThink-Pink%2Fsymptoms.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -194,6 +194,10 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 
 ### LIGHTHOUSE
 
+#### Initial Score
+
+![Lighthouse Score](assets\images\lighthouse-desktop-01.PNG)
+
 #### Performance:
 
 * Performance was 100% so didn't need to be adjusted
@@ -201,19 +205,52 @@ The W3C Markup Validator and W3C CSS Validator was used to validate my project t
 #### Accessibility:
 
 * Contrast on the nav bar was low
+   * Used a darker colour for the background
+   * Used solid white for all links
+   * Used underline & bold for active links
 
 #### Best Practices:
 
-* Front ended libraries included may have vulnerabilities
+* "Front ended libraries included may have vulnerabilities"
+   * Bootstrap is an important part of making the site responsive so it cannot be removed 
 
 #### SEO:
 
 * Non decscriptive button name
+   * Updated button/link names
 
-## CONTENT
+### Final Lighhouse Scores
 
-### IMAGES
+* Desktop
 
-### TEXT CONTENT
+![Lighthouse Score](assets\images\lighthouse-desktop-final.PNG)
 
-## ACKNOWLEDGEMENTS:
+* Mobile
+
+![Lighthouse Score](assets\images\lighthouse-mobile-final.PNG)
+
+## CREDITS
+
+* Code for caoursel next and previous buttons taken from [here](https://forum.freecodecamp.org/t/bootstrap-carousel-controls-color/331196/2)
+
+* Homepage stats taken from [WHO](https://www.who.int/news-room/fact-sheets/detail/breast-cancer)
+
+* Survivor stories (and their images) taken from [Lee Health](https://www.leehealth.org/health-and-wellness/healthy-news-blog/cancer-care/breast-cancer-stories-of-survival-courage-and-inspiration)
+
+* Technology page information & images taken from each site:
+   * [Breast Aware App](https://www.breastcancerireland.com/education-awareness/free-to-download-app/)
+   * [TNM Cancer Staging App](https://www.iaea.org/newscenter/news/embracing-mobile-and-online-technology-to-reshape-cancer-care-and-education)
+   * [Transpara (ScreenPoint Medical)](https://www.siemens-healthineers.com/perspectives/mso-ai-in-mammography.html)
+   * [Thermaiscan](https://thermaiscan.com//)
+
+* Resource information & images taken from their sites:
+
+   * [Irish Cancer Society](https://www.cancer.ie/)
+   * [Breast Cancer Now](https://breastcancernow.org/)
+   * [Breast Cancer Haven](https://www.breastcancerhaven.org.uk/)
+   * [ARC](https://www.arccancersupport.ie/services-for-you/family-loved-ones/)
+   * [Maggie's Centers](https://www.maggies.org/)
+   * [Inflammatory Breast Cancer Support](https://ibcnetworkuk.org/)
+
+* Hero image taken from [Unsplash](https://unsplash.com/photos/SJCalEw-1LM)
+* Home page banner image taken from [Unsplash](https://unsplash.com/photos/XJXWbfSo2f0)
